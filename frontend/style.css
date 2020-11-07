@@ -1,0 +1,15 @@
+#submission {
+    line-height: 2;
+    zoom: 150%;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 25%;
+}
+#submissionTitle{
+    position: absolute;;
+    bottom: 100%;
+}
+#charts{
+    display:none;
+}
